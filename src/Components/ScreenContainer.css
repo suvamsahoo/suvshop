@@ -1,0 +1,14 @@
+.SCREEN-CONTAINER {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.MAIN {
+  flex: 1;
+
+  /* if header navbar is fixed  */
+  /* padding-top: 64px; */
+  padding-top: 110px;
+ 
+  
+}
